@@ -1,0 +1,1 @@
+Contains final version of code implemented using ESP-12S builtin bluetooth and ADXL345 accelerometer.

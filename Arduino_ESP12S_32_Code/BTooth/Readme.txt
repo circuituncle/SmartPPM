@@ -1,0 +1,1 @@
+Contains final version of code implemented using ESP32 builtin bluetooth and ADXL345 accelerometer.
