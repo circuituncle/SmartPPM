@@ -1,2 +1,2 @@
 # SmartPPM
-Arduino Code for ESP modules for smart helmet
+Code for ESP modules for smart helmet
