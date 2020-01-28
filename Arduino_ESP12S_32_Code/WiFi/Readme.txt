@@ -1,1 +1,1 @@
-Contains final version of code implemented using ESP-12S builtin bluetooth and ADXL345 accelerometer.
+Contains final version of code implemented using ESP-12S WiFi and ADXL345 accelerometer.
