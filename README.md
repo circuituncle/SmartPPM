@@ -1,2 +1,2 @@
 # SmartPPM
-Code for our project SmartPPM: IoT Based Smart Helmet Design for Efficient Potholes and Pollution Monitoring
+Code for our project SmartPPM: IoT Based Smart Helmet Design for Potholes and Air Pollution Monitoring
