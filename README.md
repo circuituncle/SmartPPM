@@ -2,7 +2,7 @@
 Codes for our project | SmartPPM: An Internet of Things Based Smart Helmet Design for Potholes and Air Pollution Monitoring
 
 # Greetings!
-Circuit Uncle's project SmartPPM is now published in EAI Endorsed Transactions on Internet of Things
+SmartPPM is now published in EAI Endorsed Transactions on Internet of Things
  
 https://eudl.eu/doi/10.4108/eai.13-7-2018.163833 or http://dx.doi.org/10.4108/eai.13-7-2018.163833
 
