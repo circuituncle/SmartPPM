@@ -11,6 +11,9 @@ In a country with an extensive road network, it is very tough for authorities to
 
 Visit our website https://www.circuituncle.com. For a question/help about this project, please mail at admin@circuituncle.com
 
+Journal Weblink: https://eudl.eu/journal/IoT (Open Access Journal with no Article Processing Charge! Large peer review network!)
+
+
 # Disclaimer
 
 Authors take no responsibility of damage done to any device due to software bugs in the code. The code is in public domain which free to download and adapt for further innovation/improvements.
